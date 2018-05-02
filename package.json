@@ -1,0 +1,20 @@
+{
+  "name": "dinu",
+  "version": "1.0.0",
+  "description": "anything",
+  "main": "nightwatch.conf.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github"
+  },
+  "keywords": [
+    "g"
+  ],
+  "author": "mit",
+  "license": "ISC"
+}

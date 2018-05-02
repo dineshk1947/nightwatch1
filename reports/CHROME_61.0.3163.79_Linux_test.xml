@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="test"
+    errors="0" failures="1" hostname="" id="" package="test" skipped="0"
+    tests="1" time="181.2" timestamp="Sun, 17 Sep 2017 12:49:04 GMT">
+  
+    <testcase name="HOUSE-RENTALS_4" classname="test" time="181.2" assertions="1">  <failure message="Timed out while waiting for element &lt;body&gt; to be present for 1000 milliseconds.">    at Object.HOUSE-RENTALS_4 (/home/dinu/PhpstormProjects/googleTest/tests/test.js:92:14)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
